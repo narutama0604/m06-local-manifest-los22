@@ -34,4 +34,9 @@
            path="device/lineage/sepolicy"
            remote="github"
            revision="lineage-22.2" />
+
+    <project name="2by2-Project/vendor_2by2"
+           path="vendor/2by2"
+           remote="github"
+           revision="lineage-22.2" />
 </manifest>
