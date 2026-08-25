@@ -34,4 +34,9 @@
            path="device/lineage/sepolicy"
            remote="github"
            revision="lineage-22.2" />
+
+    <project name="LineageOS/android_vendor_lineage"
+         path="vendor/lineage"
+         remote="github"
+         revision="lineage-22.2" />
 </manifest>
