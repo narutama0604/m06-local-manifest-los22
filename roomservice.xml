@@ -4,28 +4,28 @@
            path="device/fcnt/m06"
            remote="github"
            revision="lineage-22.2" />
-
   <project name="narutama0604/device_fcnt_m06-kernel"
            path="device/fcnt/m06-kernel"
            remote="github"
            revision="lineage-22.2" />
-
   <project name="narutama0604/kernel_fcnt_sm7435"
            path="kernel/fcnt/sm7435"
            remote="github"
            revision="lineage-22.2" />
-
   <project name="narutama0604/kernel_fcnt_sm7435-modules"
            path="kernel/fcnt/sm7435-modules"
            remote="github"
            revision="lineage-22.2" />
-
   <project name="narutama0604/vendor_fcnt_m06"
            path="vendor/fcnt/m06"
            remote="github"
            revision="lineage-22.2" />
-
   <project name="narutama0604/vendor_fcnt_m06-firmware"
            path="vendor/fcnt/m06-firmware"
            remote="github"
+           revision="lineage-22.2" />
+  <project name="LineageOS/android_vendor_lineage"
+           path="vendor/lineage"
+           remote="github"
+           revision="lineage-22.2" />
 </manifest>
