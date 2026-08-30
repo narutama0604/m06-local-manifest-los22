@@ -28,10 +28,4 @@
   <project name="narutama0604/vendor_fcnt_m06-firmware"
            path="vendor/fcnt/m06-firmware"
            remote="github"
-           revision="lineage-22.2" />
-
-    <project name="LineageOS/android_device_lineage_sepolicy"
-           path="device/lineage/sepolicy"
-           remote="github"
-           revision="lineage-22.2" />
 </manifest>
